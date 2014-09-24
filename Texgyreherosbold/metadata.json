@@ -1,0 +1,14 @@
+{
+        "family": "texgyreherosbold",
+        "subfamilies": [
+                {
+                        "basename": "texgyreheros-bold-webfont",
+                        "formats" : [
+                                "eot",
+                                "woff"
+                        ],
+                        "style": "normal",
+                        "weight": 600
+                }
+        ]
+}

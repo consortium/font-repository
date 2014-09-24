@@ -1,0 +1,14 @@
+{
+        "family": "texgyreherosregular",
+        "subfamilies": [
+                {
+                        "basename": "texgyreheros-regular-webfont",
+                        "formats" : [
+                                "eot",
+                                "woff"
+                        ],
+                        "style": "normal",
+                        "weight": 400
+                }
+        ]
+}

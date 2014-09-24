@@ -1,0 +1,21 @@
+{
+	"family": "Montserrat",
+	"subfamilies": [
+		{
+			"basename": "montserrat-regular-webfont",
+			"formats" : [
+				"woff"
+			],
+			"style": "normal",
+			"weight": 400
+		},
+		{
+			"basename": "montserrat-bold-webfont",
+			"formats" : [
+				"woff"
+			],
+			"style": "normal",
+			"weight": 600
+		}
+	]
+}

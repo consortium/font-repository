@@ -1,0 +1,37 @@
+{
+	"family": "Noto Serif",
+	"subfamilies": [
+		{
+			"basename": "NotoSerif-Regular-webfont",
+			"formats" : [
+				"woff"
+			],
+			"style": "normal",
+			"weight": 400
+		},
+		{
+			"basename": "NotoSerif-Bold-webfont",
+			"formats" : [
+				"woff"
+			],
+			"style": "normal",
+			"weight": 600
+		},
+		{
+			"basename": "NotoSerif-Italic-webfont",
+			"formats" : [
+				"woff"
+			],
+			"style": "italic",
+			"weight": 400
+		},
+		{
+			"basename": "NotoSerif-BoldItalic-webfont",
+			"formats" : [
+				"woff"
+			],
+			"style": "italic",
+			"weight": 600
+		}
+	]
+}

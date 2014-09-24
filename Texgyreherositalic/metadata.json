@@ -1,0 +1,14 @@
+{
+        "family": "texgyreherositalic",
+        "subfamilies": [
+                {
+                        "basename": "texgyreheros-italic-webfont",
+                        "formats" : [
+                                "eot",
+                                "woff"
+                        ],
+                        "style": "italic",
+                        "weight": 400
+                }
+        ]
+}

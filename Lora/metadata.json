@@ -1,0 +1,38 @@
+{
+	"family": "Lora",
+	"subfamilies": [
+		{
+			"basename": "lora-regular",
+			"formats" : [
+				"ttf"
+			],
+			"style": "normal",
+			"weight": 400
+		},
+		{
+			"basename": "lora-italic",
+			"formats" : [
+				"ttf"
+			],
+			"style": "italic",
+			"weight": 400
+		},
+		{
+			"basename": "lora-bold",
+			"formats" : [
+				"ttf"
+			],
+			"style": "normal",
+			"weight": 700
+		},
+		{
+			"basename": "lora-bolditalic",
+			"formats" : [
+				"ttf"
+			],
+			"style": "italic",
+			"weight": 700
+		}
+	]
+}
+
